@@ -1,0 +1,67 @@
+body{
+    background-color: white;
+    color:black;
+}
+.navbar{
+    display:flex ;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(156, 3, 156);
+}
+.navbar-left{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.navbar-right{
+    display: flex;
+    font-size: 30;
+    font-weight: bold;
+
+}
+.a-element{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-right: 20px;
+    font-style:bold;
+}
+.home{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    height:80vh;
+    align-items: center;
+}
+.home1{
+    width:50vw;
+    padding-right: 20px;
+    padding-left: 200px;
+    text-align: center;
+}
+.home2{
+    width:50vw;
+    padding-right: 200px;
+}
+.home2 img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.navbar-left img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.skills{
+    text-align: center;
+}
+.skills1{
+    color: rgb(156, 3, 156);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.skillsare{
+    display: flex;
+    flex-direction: row;
+}

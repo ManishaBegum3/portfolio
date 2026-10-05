@@ -1,0 +1,9 @@
+.nav-logo{
+    height: 90px;
+}
+.massbody{
+    min-height: 100vh;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSr8N77oiS_6s8wECBtaYXS3ZswaWGqg4LjJ4JdZKUaQ&s=10");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
